@@ -12,8 +12,8 @@ CREATE TABLE drivers(
 );
 
 INSERT INTO drivers VALUES
-(1,"Max Verstappen","Red Bull Racing Formula 1 Team",4),
-(3,"Micheal Schumacher","Ferrari",7),
+(1,"Max Verstappen","Red Bull Racing Formulaystay 1 Team",4),
+(3,"Micheal Schumacher","Scuderia Ferrari HP",7),
 (11,"Daniel Ricciardo","Infiniti Red Bull Racing",0),
 (81,"Oscar Piastri","McLaren Mastercard F1 Team",0);
 
